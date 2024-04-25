@@ -8,6 +8,7 @@ const int Token::Tk_number =1;
 const int Token::Tk_operator = 2;
 const int Token::Tk_punctuantion = 3;
 const int Token::Tk_assign = 4;
+const int Token::Tk_hola = 5;
 
 const string Token::Tk_text[]= {"IDENTIFICADOR", "NUMERO","OPERADOR","PUNTUACION","ASIGNACION"};
 
