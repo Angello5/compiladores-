@@ -14,6 +14,7 @@ class Token{
             static const int Tk_operator;
             static const int Tk_punctuantion;
             static const int Tk_assign;
+            static const int Tk_hola; 
 
             static const string Tk_text[];
 
